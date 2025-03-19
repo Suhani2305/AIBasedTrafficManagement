@@ -1,0 +1,14 @@
+[server]
+headless = true
+address = "localhost"
+port = 8507
+enableCORS = false
+enableWebsocketCompression = false
+maxUploadSize = 200
+
+[theme]
+primaryColor = "#FF4B4B"
+backgroundColor = "#0E1117"
+secondaryBackgroundColor = "#262730"
+textColor = "#FAFAFA"
+font = "sans-serif"
