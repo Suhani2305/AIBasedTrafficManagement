@@ -50,9 +50,6 @@ st.set_page_config(
 
 # Navbar with title
 st.markdown("""
-<nav style='background-color: #FF4B4B; padding: 1rem; position: fixed; top: 0; left: 0; right: 0; z-index: 999'>
-    <h1 style='color: white; margin: 0; text-align: center; font-size: 2rem'>🚗 IntelliRoute</h1>
-</nav>
 <div style='margin-top: 5rem'>
     <div style='text-align: center; background-color: #262730; padding: 2rem; border-radius: 10px; margin-bottom: 2rem'>
         <h2 style='color: #FF4B4B'>Smart Traffic Analysis Dashboard</h2>
@@ -66,7 +63,7 @@ st.markdown("""
 # City selection
 selected_city = st.sidebar.selectbox(
     "Select City",
-    ["Bangalore", "Mumbai", "Delhi", "Chennai"],
+    ["Bangalore", "Mumbai", "Delhi", "Chennai","Jalandhar","Kolkata","Hyderabad","Pune"],
     key="city_selector"
 )
 
