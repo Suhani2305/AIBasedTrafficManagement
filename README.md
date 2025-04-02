@@ -217,13 +217,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 For any queries or support, please contact:
-- Email: your.email@example.com
+- Email: pushpendrarawat868@gmail.com
 - Twitter: [@yourusername](https://twitter.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourusername)
+- LinkedIn: [Suhani](https://linkedin.com/in/suhani2305)
 
 ---
 
 <div align="center">
-  <p>Made with ❤️ by Your Team</p>
+  <p>Made with ❤️ by Suhani Rawat</p>
   <p>© 2023 AI-Based Traffic Management System</p>
 </div>
