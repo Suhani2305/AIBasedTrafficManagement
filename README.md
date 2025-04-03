@@ -208,12 +208,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Team
-
-- **Project Lead**: [Your Name](https://github.com/yourusername)
-- **Developer**: [Developer Name](https://github.com/developerusername)
-- **Data Scientist**: [Data Scientist Name](https://github.com/datascientistusername)
-
+ 
 ## 📞 Contact
 
 For any queries or support, please contact:
